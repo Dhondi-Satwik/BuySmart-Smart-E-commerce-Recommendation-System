@@ -1,8 +1,7 @@
 # Smart E-Commerce Recommendation System
-
-BuySmart is an end-to-end **e-commerce recommendation system** that helps users decide **what to buy** and **when to buy**.
 A data-driven recommendation system designed to provide personalized product suggestions
 by analyzing user behavior and historical interaction data.
+This, end-to-end **e-commerce recommendation system** that helps users decide **what to buy** and **when to buy**.
 Unlike traditional recommendation engines that only suggest products, BuySmart adds **festival-aware intelligence** to advise users whether to buy now or wait for upcoming sale seasons—maximizing savings and engagement.
 
 ---
